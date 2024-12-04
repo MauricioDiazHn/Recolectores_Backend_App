@@ -81,3 +81,4 @@ C:\Users\mauricio.diaz\source\repos\WebApplication3\WebApplication3\obj\Debug\ne
 C:\Users\mauricio.diaz\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.genruntimeconfig.cache
 C:\Users\mauricio.diaz\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\ref\WebApplication3.dll
 C:\Users\mauricio.diaz\source\repos\WebApplication3\WebApplication3\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mauricio.diaz\source\repos\WebApplication3\WebApplication3\obj\Debug\net8.0\WebApplication3.sourcelink.json

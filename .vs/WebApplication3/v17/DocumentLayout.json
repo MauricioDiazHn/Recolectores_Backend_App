@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\controllers\\recolectaenccontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\controllers\\motoristacontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\controllers\\motoristacontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\models\\parametrosjwt.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
@@ -86,18 +86,17 @@
               "RelativeToolTip": "WebApplication3\\Models\\ParametrosJwt.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-03T17:08:16.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T17:08:16.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MotoristaRepository.fs",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Data\\MotoristaRepository.fs",
               "RelativeDocumentMoniker": "WebApplication3\\Data\\MotoristaRepository.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Data\\MotoristaRepository.fs",
               "RelativeToolTip": "WebApplication3\\Data\\MotoristaRepository.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-02T21:15:46.631Z",
               "EditorCaption": ""
@@ -112,8 +111,7 @@
               "RelativeToolTip": "WebApplication3\\Data\\UserRepository.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T17:03:07.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:03:07.159Z"
             },
             {
               "$type": "Document",
@@ -124,8 +122,7 @@
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.fsproj",
               "RelativeToolTip": "WebApplication3\\WebApplication3.fsproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
-              "WhenOpened": "2024-12-03T15:43:06.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T15:43:06.758Z"
             },
             {
               "$type": "Document",
@@ -135,7 +132,7 @@
               "RelativeDocumentMoniker": "WebApplication3\\Data\\RecolectaEncRepository.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Data\\RecolectaEncRepository.fs",
               "RelativeToolTip": "WebApplication3\\Data\\RecolectaEncRepository.fs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwDAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwDkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-02T20:14:14.916Z",
               "EditorCaption": ""
@@ -148,20 +145,20 @@
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\RecolectaEncController.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\RecolectaEncController.fs",
               "RelativeToolTip": "WebApplication3\\Controllers\\RecolectaEncController.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-02T20:20:45.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MotoristaController.fs",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\MotoristaController.fs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\MotoristaController.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\MotoristaController.fs",
               "RelativeToolTip": "WebApplication3\\Controllers\\MotoristaController.fs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-02T22:04:13.844Z",
               "EditorCaption": ""
@@ -176,8 +173,7 @@
               "RelativeToolTip": "WebApplication3\\Models\\UpdateRecolectaEnc.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T20:57:18.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:57:18.073Z"
             },
             {
               "$type": "Document",
@@ -189,21 +185,19 @@
               "RelativeToolTip": "WebApplication3\\Program.fs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwCsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T16:57:25.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:57:25.464Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "WebApplication3",
+              "Title": "WebApplication3.fsproj",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.fsproj",
               "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.fsproj",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.fsproj",
               "RelativeToolTip": "WebApplication3\\WebApplication3.fsproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
-              "WhenOpened": "2024-12-03T16:57:01.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T16:57:01.834Z"
             },
             {
               "$type": "Document",
@@ -215,8 +209,7 @@
               "RelativeToolTip": "WebApplication3\\Controllers\\WeatherForecastController.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T16:57:18.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:57:18.006Z"
             },
             {
               "$type": "Document",
@@ -228,8 +221,7 @@
               "RelativeToolTip": "WebApplication3\\Models\\RecolectaEnc.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T20:10:49.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:10:49.466Z"
             },
             {
               "$type": "Document",
@@ -241,8 +233,7 @@
               "RelativeToolTip": "WebApplication3\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T19:18:56.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T19:18:56.655Z"
             },
             {
               "$type": "Document",
@@ -254,8 +245,7 @@
               "RelativeToolTip": "WebApplication3\\WeatherForecast.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T18:01:24.783Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T18:01:24.783Z"
             },
             {
               "$type": "Document",
@@ -267,8 +257,7 @@
               "RelativeToolTip": "WebApplication3\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T19:23:21.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T19:23:21.681Z"
             },
             {
               "$type": "Document",
@@ -280,8 +269,7 @@
               "RelativeToolTip": "WebApplication3\\Controllers\\UserController.fs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T17:40:15.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T17:40:15.313Z"
             }
           ]
         }

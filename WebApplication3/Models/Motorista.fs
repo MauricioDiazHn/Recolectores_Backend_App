@@ -17,7 +17,20 @@ type Motorista = {
     Username: string
 }
 
+type MotoristaLoginResult = 
+    {
+        IsValid: bool
+        MotoristaId: int option
+        FullName: string option
+    }
+
 type LoginCredentials = {
     Username: string
     Password: string
+}
+
+type LoginResponse = {
+    Token: string
+    MotoristaId: int
+    FullName: string
 }

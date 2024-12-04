@@ -24,11 +24,13 @@ type MotoristaController(connectionString : string) =
     [<HttpPost("login")>]
     member this.Login([<FromBody>] credentials: LoginCredentials) : IActionResult =
         try
-            match MotoristaRepository.validateCredentials connectionString credentials.Username credentials.Password with
-            | true -> 
-                let token = JwtHelper.generateJwtToken credentials.Username
-                this.Ok({| Token = token |})
-            | false -> this.Unauthorized("Credenciales inválidas.")
+            let result = MotoristaRepository.validateCredentials connectionString credentials.Username credentials.Password
+            if result.IsValid then
+                let token = JwtHelper.generateJwtToken(credentials.Username)
+                let response = { Token = token; MotoristaId = result.MotoristaId.Value; FullName = result.FullName.Value }
+                this.Ok(response)
+            else
+                this.Unauthorized("Credenciales inválidas.")
         with
         | ex -> 
             this.StatusCode(500, $"Error al procesar la autenticación: {ex.Message}")

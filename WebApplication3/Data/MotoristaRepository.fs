@@ -46,10 +46,19 @@ module MotoristaRepository =
         connection.Open()
         command.ExecuteScalar() :?> int
 
-    let validateCredentials (connectionString: string) (username: string) (password: string) : bool =
+    //let validateCredentials (connectionString: string) (username: string) (password: string) : bool =
+    //    use connection = new SqlConnection(connectionString)
+    //    use command = new SqlCommand("""
+    //        SELECT PasswordHash 
+    //        FROM Motorista 
+    //        WHERE Username = @Username
+    //        """, connection)
+
+
+    let validateCredentials (connectionString: string) (username: string) (password: string) : MotoristaLoginResult =
         use connection = new SqlConnection(connectionString)
         use command = new SqlCommand("""
-            SELECT PasswordHash 
+            SELECT MotoristaId, CONCAT(Nombre, ' ', Apellido) AS FullName, PasswordHash 
             FROM Motorista 
             WHERE Username = @Username
             """, connection)
@@ -57,7 +66,17 @@ module MotoristaRepository =
         command.Parameters.AddWithValue("@Username", username)
 
         connection.Open()
-        let passwordHash = command.ExecuteScalar()
-        match passwordHash with
-        | :? string as hash -> BCrypt.Verify(password, hash)
-        | _ -> false
+        use reader = command.ExecuteReader()
+        if reader.Read() then
+            let hash = reader.["PasswordHash"] :?> string
+            let isValid = BCrypt.Verify(password, hash)
+            if isValid then
+                {
+                    IsValid = true
+                    MotoristaId = Some(reader.["MotoristaId"] :?> int)
+                    FullName = Some(reader.["FullName"] :?> string)
+                }
+            else 
+                { IsValid = false; MotoristaId = None; FullName = None }
+        else 
+            { IsValid = false; MotoristaId = None; FullName = None }
