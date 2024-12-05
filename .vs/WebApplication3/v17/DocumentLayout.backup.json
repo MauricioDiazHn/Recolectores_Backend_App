@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\controllers\\motoristacontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\controllers\\motoristacontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\data\\recolectaencrepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\data\\recolectaencrepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\controllers\\recolectaenccontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\controllers\\recolectaenccontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\data\\recolectaencrepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
-      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\data\\recolectaencrepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\controllers\\motoristacontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\controllers\\motoristacontroller.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|solutionrelative:webapplication3\\data\\motoristarepository.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AA22FA7-38B4-4532-8A7C-5FC0A7CD981F}|WebApplication3\\WebApplication3.fsproj|c:\\users\\mauricio.diaz\\source\\repos\\webapplication3\\webapplication3\\models\\parametrosjwt.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MotoristaRepository.fs",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Data\\MotoristaRepository.fs",
               "RelativeDocumentMoniker": "WebApplication3\\Data\\MotoristaRepository.fs",
@@ -98,8 +98,7 @@
               "RelativeToolTip": "WebApplication3\\Data\\MotoristaRepository.fs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T21:15:46.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T21:15:46.631Z"
             },
             {
               "$type": "Document",
@@ -126,42 +125,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "RecolectaEncRepository.fs",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Data\\RecolectaEncRepository.fs",
               "RelativeDocumentMoniker": "WebApplication3\\Data\\RecolectaEncRepository.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Data\\RecolectaEncRepository.fs",
               "RelativeToolTip": "WebApplication3\\Data\\RecolectaEncRepository.fs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAUwDAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwDkAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-02T20:14:14.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RecolectaEncController.fs",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\RecolectaEncController.fs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\RecolectaEncController.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\RecolectaEncController.fs",
               "RelativeToolTip": "WebApplication3\\Controllers\\RecolectaEncController.fs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T20:20:45.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T20:20:45.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MotoristaController.fs",
               "DocumentMoniker": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\MotoristaController.fs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\MotoristaController.fs",
               "ToolTip": "C:\\Users\\mauricio.diaz\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\MotoristaController.fs",
               "RelativeToolTip": "WebApplication3\\Controllers\\MotoristaController.fs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-02T22:04:13.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T22:04:13.844Z"
             },
             {
               "$type": "Document",
